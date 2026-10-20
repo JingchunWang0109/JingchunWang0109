@@ -14,7 +14,7 @@
 
 我负责需求梳理、流程与交互设计，借助Codex辅助实现前端原型。案例重点介绍产品切入点、设计判断、AI交互方式，以及模型接入与发布后复盘计划。
 
-[阅读完整设计案例](cases/note-first-impression.md) · [体验交互Demo](https://note-first-impression.wjcathy0109.chatgpt.site)
+[阅读完整设计案例](cases/note-first-impression.md) · [体验交互Demo](https://0d496e044b0944e69cc756bc75a80934.app.workbuddy.host/biji.html)
 
 > 当前AI能力采用关键词规则进行Mock演示，尚未接入真实模型；原型用于展示产品方案与操作流程。
 
