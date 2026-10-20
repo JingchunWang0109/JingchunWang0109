@@ -2,7 +2,7 @@
 
 > 面向独立创作者的笔记发布准备工具 · 个人产品设计与AI辅助开发
 
-[返回作品集](https://github.com/JingchunWang0109) · [体验交互原型](https://note-first-impression.wjcathy0109.chatgpt.site)
+[返回作品集](https://github.com/JingchunWang0109) · [体验交互原型](https://0d496e044b0944e69cc756bc75a80934.app.workbuddy.host/biji.html)
 
 **我的职责：** 问题定义、需求梳理、流程与交互设计、原型验收；借助Codex辅助完成前端实现。
 
@@ -14,7 +14,7 @@
 
 我因此做了「笔记初见工坊」，希望通过AI辅助，帮助创作者完成发布前的表达准备，让好内容有一个合适的初见。
 
-[点击体验笔记初见工坊](https://note-first-impression.wjcathy0109.chatgpt.site)
+[点击体验笔记初见工坊](https://0d496e044b0944e69cc756bc75a80934.app.workbuddy.host/biji.html)
 
 说明：当前作品是可交互的前端原型，AI生成、润色与片段推荐采用关键词规则进行Mock演示，尚未接入真实模型。
 
@@ -102,7 +102,7 @@
 
 我希望工坊逐步从一次性的发布准备，发展为能够理解个人表达、积累经验，并支持持续改进的创作助手。
 
-[点击体验笔记初见工坊](https://note-first-impression.wjcathy0109.chatgpt.site)
+[点击体验笔记初见工坊](https://0d496e044b0944e69cc756bc75a80934.app.workbuddy.host/biji.html)
 
 你在准备发布一篇笔记时，最希望AI帮你解决哪一步？欢迎体验后告诉我。
 
