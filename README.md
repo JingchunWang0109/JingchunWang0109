@@ -1,16 +1,23 @@
-## Hi there 👋
+# 王靖纯 · 产品作品集
 
-<!--
-**JingchunWang0109/JingchunWang0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+关注产品设计与AI产品实践，从真实使用场景出发，将需求、流程与交互落实为可体验的原型。
 
-Here are some ideas to get you started:
+这里记录我的产品定位、设计思路、关键取舍与后续验证计划。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 作品
+
+### 01 笔记初见工坊
+
+**面向独立创作者的笔记发布准备工具**
+
+围绕标题、文案、封面与视频开头，分别组织图文和视频的准备流程。用户可以用自然语言表达修改要求，查看结果后继续调整，并自主决定是否采用。
+
+我负责需求梳理、流程与交互设计，借助Codex辅助实现前端原型。案例重点介绍产品切入点、设计判断、AI交互方式，以及模型接入与发布后复盘计划。
+
+[阅读完整设计案例](cases/note-first-impression.md) · [体验交互Demo](https://note-first-impression.wjcathy0109.chatgpt.site)
+
+> 当前AI能力采用关键词规则进行Mock演示，尚未接入真实模型；原型用于展示产品方案与操作流程。
+
+---
+
+更多产品案例将陆续整理。
